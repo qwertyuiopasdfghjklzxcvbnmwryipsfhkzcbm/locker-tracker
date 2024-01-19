@@ -9,6 +9,7 @@
 
 int main()
 {
+    std::cout << "Type \"help\" for a list of commands" << std::endl;
     command_list = {{"help", "Displays all of the commands", "help", help}, {"list", "Lists all the lockers which follow the inputted parameters as shown below", "list --range=(int-int) --floor=(int) --hallway=(string)", list}, {"info", "Lists all the info on the locker owner, requires user to input locker number", "info (int)", info}, {"clear", "Clears the console", "clear", clear}};
     while (true)
     {
