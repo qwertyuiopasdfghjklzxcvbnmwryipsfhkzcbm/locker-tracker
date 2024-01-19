@@ -1,0 +1,3573 @@
+[
+  { "lockerNumber": 1318, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1319, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1320, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1321,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 26, "name": "Legacy Trejo" }
+  },
+  {
+    "lockerNumber": 1322,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 45, "name": "Wesson Bailey" }
+  },
+  {
+    "lockerNumber": 1323,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 92, "name": "Kennedy McPherson" }
+  },
+  {
+    "lockerNumber": 1324,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 80, "name": "Foster Landry" }
+  },
+  { "lockerNumber": 1325, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1326, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1327,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 16, "name": "Brynleigh Webster" }
+  },
+  {
+    "lockerNumber": 1328,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 57, "name": "Shawn Zamora" }
+  },
+  { "lockerNumber": 1329, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1330, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1331,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 45, "name": "Sierra Frank" }
+  },
+  { "lockerNumber": 1332, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1333, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1334,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 63, "name": "Braylen Melendez" }
+  },
+  { "lockerNumber": 1335, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1336,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 71, "name": "Bethany Montes" }
+  },
+  { "lockerNumber": 1337, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1338, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1339, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1340,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 71, "name": "Darren Foster" }
+  },
+  { "lockerNumber": 1341, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1342,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 60, "name": "Brielle Duncan" }
+  },
+  {
+    "lockerNumber": 1343,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 56, "name": "Avery Frederick" }
+  },
+  { "lockerNumber": 1344, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1345, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1346,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 8, "name": "Sariyah Guzman" }
+  },
+  { "lockerNumber": 1347, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1348, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1349, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1350,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 87, "name": "Jude Rollins" }
+  },
+  { "lockerNumber": 1351, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1352,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 58, "name": "Araceli Vo" }
+  },
+  {
+    "lockerNumber": 1353,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 35, "name": "Gordon Pacheco" }
+  },
+  { "lockerNumber": 1354, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1355,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 24, "name": "Paris Gray" }
+  },
+  { "lockerNumber": 1356, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1357, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1358,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 6, "name": "Nicholas Solomon" }
+  },
+  { "lockerNumber": 1359, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1360, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1361,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 85, "name": "Mylah Clay" }
+  },
+  {
+    "lockerNumber": 1362,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 26, "name": "Yosef Haynes" }
+  },
+  { "lockerNumber": 1363, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1364, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1365,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 97, "name": "Lexi Nash" }
+  },
+  { "lockerNumber": 1366, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1367,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 71, "name": "Chandler Mata" }
+  },
+  {
+    "lockerNumber": 1368,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 92, "name": "Lillie Johnson" }
+  },
+  { "lockerNumber": 1369, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1370, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1371, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1372,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 7, "name": "Noah Fuller" }
+  },
+  {
+    "lockerNumber": 1373,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 65, "name": "Oakley Suarez" }
+  },
+  { "lockerNumber": 1374, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1375, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1376,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 88, "name": "Soren Sutton" }
+  },
+  {
+    "lockerNumber": 1377,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 16, "name": "Izabella Hardy" }
+  },
+  {
+    "lockerNumber": 1378,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 38, "name": "Jayceon Delgado" }
+  },
+  {
+    "lockerNumber": 1379,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 36, "name": "Alani Pollard" }
+  },
+  { "lockerNumber": 1380, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1381,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 10, "name": "Jad Ingram" }
+  },
+  { "lockerNumber": 1382, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1383, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1384, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1385,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 40, "name": "Katie Moyer" }
+  },
+  {
+    "lockerNumber": 1386,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 75, "name": "Ahmir Hall" }
+  },
+  {
+    "lockerNumber": 1387,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 57, "name": "Anita Maveen" }
+  },
+  { "lockerNumber": 1388, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1389, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1390,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 26, "name": "Remy Vaughn" }
+  },
+  {
+    "lockerNumber": 1391,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 67, "name": "Reign Davis" }
+  },
+  { "lockerNumber": 1392, "Hallway": "History/Geography", "Owner": null },
+  { "lockerNumber": 1393, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1394,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 32, "name": "Lucas Hayden" }
+  },
+  {
+    "lockerNumber": 1395,
+    "Hallway": "History/Geography",
+    "Owner": { "grade": 90, "name": "Avayah Bradley" }
+  },
+  { "lockerNumber": 1396, "Hallway": "History/Geography", "Owner": null },
+  {
+    "lockerNumber": 1397,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 23, "name": "Richard O’Neal" }
+  },
+  { "lockerNumber": 1398, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1399,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 38, "name": "Treasure Sparks" }
+  },
+  {
+    "lockerNumber": 1400,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 50, "name": "Drake Glenn" }
+  },
+  { "lockerNumber": 1401, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1402,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 81, "name": "Blaire Hardin" }
+  },
+  {
+    "lockerNumber": 1403,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 64, "name": "Hassan Martin" }
+  },
+  { "lockerNumber": 1404, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1405,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 26, "name": "Mila James" }
+  },
+  { "lockerNumber": 1406, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1407, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1408,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 17, "name": "Jaxson Thornton" }
+  },
+  { "lockerNumber": 1409, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1410, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1411,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 83, "name": "Haisley Mora" }
+  },
+  { "lockerNumber": 1412, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1413, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1414, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1415,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 19, "name": "Arturo Lamb" }
+  },
+  { "lockerNumber": 1416, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1417, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1418,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 8, "name": "Amaia Tate" }
+  },
+  {
+    "lockerNumber": 1419,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 73, "name": "Dalton Velazquez" }
+  },
+  {
+    "lockerNumber": 1420,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 32, "name": "Jaliyah Waters" }
+  },
+  {
+    "lockerNumber": 1421,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 75, "name": "Maximilian Ruiz" }
+  },
+  {
+    "lockerNumber": 1422,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 72, "name": "Emery McCullough" }
+  },
+  { "lockerNumber": 1423, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1424,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 16, "name": "Briar Sims" }
+  },
+  { "lockerNumber": 1425, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1426, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1427, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1428, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1429, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1430, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1431,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 82, "name": "Lena Blair" }
+  },
+  { "lockerNumber": 1432, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1433, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1434,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 30, "name": "Troy Munoz" }
+  },
+  {
+    "lockerNumber": 1435,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 43, "name": "Kehlani Case" }
+  },
+  { "lockerNumber": 1436, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1437, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1438,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 58, "name": "Bentlee Guzman" }
+  },
+  {
+    "lockerNumber": 1439,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 35, "name": "Ashley McGee" }
+  },
+  { "lockerNumber": 1440, "Hallway": "Main Hall", "Owner": null },
+  {
+    "lockerNumber": 1441,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 72, "name": "Conner Shannon" }
+  },
+  {
+    "lockerNumber": 1442,
+    "Hallway": "Main Hall",
+    "Owner": { "grade": 80, "name": "Harlee Page" }
+  },
+  { "lockerNumber": 1443, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1444, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1445, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1446, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1447, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1448, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1449, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1450, "Hallway": "Main Hall", "Owner": null },
+  { "lockerNumber": 1495, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1496,
+    "Hallway": "Business",
+    "Owner": { "grade": 81, "name": "Pablo Berg" }
+  },
+  {
+    "lockerNumber": 1497,
+    "Hallway": "Business",
+    "Owner": { "grade": 68, "name": "Emmalyn Guevara" }
+  },
+  { "lockerNumber": 1498, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1499,
+    "Hallway": "Business",
+    "Owner": { "grade": 30, "name": "Tommy Shepherd" }
+  },
+  {
+    "lockerNumber": 1500,
+    "Hallway": "Business",
+    "Owner": { "grade": 96, "name": "Katalina Meyer" }
+  },
+  {
+    "lockerNumber": 1501,
+    "Hallway": "Business",
+    "Owner": { "grade": 39, "name": "Tristan Magana" }
+  },
+  { "lockerNumber": 1502, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1503, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1504, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1505,
+    "Hallway": "Business",
+    "Owner": { "grade": 30, "name": "Amaris Gentry" }
+  },
+  { "lockerNumber": 1506, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1507, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1508,
+    "Hallway": "Business",
+    "Owner": { "grade": 15, "name": "Magnus Baxter" }
+  },
+  {
+    "lockerNumber": 1509,
+    "Hallway": "Business",
+    "Owner": { "grade": 34, "name": "Lara Sanchez" }
+  },
+  {
+    "lockerNumber": 1510,
+    "Hallway": "Business",
+    "Owner": { "grade": 57, "name": "Joseph Vega" }
+  },
+  {
+    "lockerNumber": 1511,
+    "Hallway": "Business",
+    "Owner": { "grade": 53, "name": "Dakota Jarvis" }
+  },
+  {
+    "lockerNumber": 1512,
+    "Hallway": "Business",
+    "Owner": { "grade": 49, "name": "Marlon Goodman" }
+  },
+  {
+    "lockerNumber": 1513,
+    "Hallway": "Business",
+    "Owner": { "grade": 36, "name": "Carolina Hull" }
+  },
+  { "lockerNumber": 1514, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1515, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1516,
+    "Hallway": "Business",
+    "Owner": { "grade": 9, "name": "Salem Griffith" }
+  },
+  {
+    "lockerNumber": 1517,
+    "Hallway": "Business",
+    "Owner": { "grade": 13, "name": "Alicia Nixon" }
+  },
+  { "lockerNumber": 1518, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1519,
+    "Hallway": "Business",
+    "Owner": { "grade": 25, "name": "Cory Velazquez" }
+  },
+  {
+    "lockerNumber": 1520,
+    "Hallway": "Business",
+    "Owner": { "grade": 64, "name": "Jaliyah Love" }
+  },
+  { "lockerNumber": 1521, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1522, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1523,
+    "Hallway": "Business",
+    "Owner": { "grade": 51, "name": "Jeffrey Powell" }
+  },
+  { "lockerNumber": 1524, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1525, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1526, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1527, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1528, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1529,
+    "Hallway": "Business",
+    "Owner": { "grade": 95, "name": "Vivian Peralta" }
+  },
+  { "lockerNumber": 1530, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1531, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1532,
+    "Hallway": "Business",
+    "Owner": { "grade": 82, "name": "Dangelo Rich" }
+  },
+  {
+    "lockerNumber": 1533,
+    "Hallway": "Business",
+    "Owner": { "grade": 86, "name": "Sunny Dejesus" }
+  },
+  {
+    "lockerNumber": 1534,
+    "Hallway": "Business",
+    "Owner": { "grade": 84, "name": "Rio Leblanc" }
+  },
+  { "lockerNumber": 1535, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1536, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1537, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1538, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1539,
+    "Hallway": "Business",
+    "Owner": { "grade": 53, "name": "Novalee Woodard" }
+  },
+  { "lockerNumber": 1540, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1541,
+    "Hallway": "Business",
+    "Owner": { "grade": 49, "name": "Westley Bonilla" }
+  },
+  {
+    "lockerNumber": 1542,
+    "Hallway": "Business",
+    "Owner": { "grade": 92, "name": "Romina Dickson" }
+  },
+  {
+    "lockerNumber": 1543,
+    "Hallway": "Business",
+    "Owner": { "grade": 99, "name": "Maxton Robles" }
+  },
+  {
+    "lockerNumber": 1544,
+    "Hallway": "Business",
+    "Owner": { "grade": 7, "name": "Felicity Quintana" }
+  },
+  { "lockerNumber": 1545, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1546, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1547,
+    "Hallway": "Business",
+    "Owner": { "grade": 36, "name": "Kelvin Decker" }
+  },
+  {
+    "lockerNumber": 1548,
+    "Hallway": "Business",
+    "Owner": { "grade": 62, "name": "Aleena Salinas" }
+  },
+  { "lockerNumber": 1549, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1550, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1551, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1552,
+    "Hallway": "Business",
+    "Owner": { "grade": 89, "name": "Edgar Watts" }
+  },
+  {
+    "lockerNumber": 1553,
+    "Hallway": "Business",
+    "Owner": { "grade": 63, "name": "Melissa Rasmussen" }
+  },
+  { "lockerNumber": 1554, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1555, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1556,
+    "Hallway": "Business",
+    "Owner": { "grade": 82, "name": "Will Sims" }
+  },
+  {
+    "lockerNumber": 1557,
+    "Hallway": "Business",
+    "Owner": { "grade": 65, "name": "Lena Ahmed" }
+  },
+  { "lockerNumber": 1558, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1559, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1560, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1561,
+    "Hallway": "Business",
+    "Owner": { "grade": 21, "name": "Harry Maddox" }
+  },
+  { "lockerNumber": 1562, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1563,
+    "Hallway": "Business",
+    "Owner": { "grade": 63, "name": "Zainab Carlson" }
+  },
+  { "lockerNumber": 1564, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1565, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1566, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1567, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1568,
+    "Hallway": "Business",
+    "Owner": { "grade": 76, "name": "Paul Hendrix" }
+  },
+  { "lockerNumber": 1569, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1570, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1571,
+    "Hallway": "Business",
+    "Owner": { "grade": 21, "name": "Zhuri Bonilla" }
+  },
+  { "lockerNumber": 1572, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1573,
+    "Hallway": "Business",
+    "Owner": { "grade": 43, "name": "Aden Fitzgerald" }
+  },
+  {
+    "lockerNumber": 1574,
+    "Hallway": "Business",
+    "Owner": { "grade": 73, "name": "Marlee Conway" }
+  },
+  { "lockerNumber": 1575, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1576,
+    "Hallway": "Business",
+    "Owner": { "grade": 36, "name": "Orlando Young" }
+  },
+  { "lockerNumber": 1577, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1578, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1579,
+    "Hallway": "Business",
+    "Owner": { "grade": 41, "name": "Zoey Nava" }
+  },
+  { "lockerNumber": 1580, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1581, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1582, "Hallway": "Business", "Owner": null },
+  { "lockerNumber": 1583, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1584,
+    "Hallway": "Business",
+    "Owner": { "grade": 47, "name": "Stefan Proctor" }
+  },
+  { "lockerNumber": 1585, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1586,
+    "Hallway": "Business",
+    "Owner": { "grade": 54, "name": "Chandler Garrett" }
+  },
+  { "lockerNumber": 1587, "Hallway": "Business", "Owner": null },
+  {
+    "lockerNumber": 1588,
+    "Hallway": "Business",
+    "Owner": { "grade": 25, "name": "Kairo Kaur" }
+  },
+  {
+    "lockerNumber": 3000,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 95, "name": "Holland Dudley" }
+  },
+  {
+    "lockerNumber": 3001,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 23, "name": "Colter Richardson" }
+  },
+  {
+    "lockerNumber": 3002,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 84, "name": "Allison Hampton" }
+  },
+  {
+    "lockerNumber": 3003,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 9, "name": "Hank Gentry" }
+  },
+  {
+    "lockerNumber": 3004,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 5, "name": "Amelie Dickson" }
+  },
+  { "lockerNumber": 3005, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3006, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3007, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3008,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 16, "name": "Maxton Pugh" }
+  },
+  { "lockerNumber": 3009, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3010,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 85, "name": "Landry Hutchinson" }
+  },
+  { "lockerNumber": 3011, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3012, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3013, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3014,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 27, "name": "Korbin Navarro" }
+  },
+  { "lockerNumber": 3015, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3016, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3017, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3018, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3019, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3020,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 88, "name": "Winter Zimmerman" }
+  },
+  { "lockerNumber": 3021, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3022, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3023, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3024, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3025,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 56, "name": "Sergio Martin" }
+  },
+  { "lockerNumber": 3026, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3027,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 75, "name": "Mila Costa" }
+  },
+  {
+    "lockerNumber": 3028,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 63, "name": "Kenji Good" }
+  },
+  {
+    "lockerNumber": 3029,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 24, "name": "Nathalia English" }
+  },
+  {
+    "lockerNumber": 3030,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 14, "name": "Junior Strickland" }
+  },
+  {
+    "lockerNumber": 3031,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 52, "name": "Nia Snyder" }
+  },
+  { "lockerNumber": 3032, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3033,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 70, "name": "Thiago Reeves" }
+  },
+  {
+    "lockerNumber": 3034,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 88, "name": "Lana Kramer" }
+  },
+  { "lockerNumber": 3035, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3036, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3037, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3038, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3039,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 72, "name": "Kylan Myers" }
+  },
+  {
+    "lockerNumber": 3040,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 74, "name": "Lydia Wolf" }
+  },
+  {
+    "lockerNumber": 3041,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 98, "name": "Jase Morales" }
+  },
+  {
+    "lockerNumber": 3042,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 80, "name": "Skylar Meyers" }
+  },
+  {
+    "lockerNumber": 3043,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 20, "name": "Julien Barnett" }
+  },
+  {
+    "lockerNumber": 3044,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 90, "name": "Harlow Velazquez" }
+  },
+  {
+    "lockerNumber": 3045,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 36, "name": "Drew Page" }
+  },
+  { "lockerNumber": 3046, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3047, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3048, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3049,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 18, "name": "Cataleya Cherry" }
+  },
+  { "lockerNumber": 3050, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3051, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3052, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3053,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 76, "name": "Rome Vance" }
+  },
+  { "lockerNumber": 3054, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3055, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3056, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3057,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 75, "name": "Maxine Rowe" }
+  },
+  { "lockerNumber": 3058, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3059,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 14, "name": "Kamden Leonard" }
+  },
+  { "lockerNumber": 3060, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3061,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 60, "name": "Demi Mueller" }
+  },
+  { "lockerNumber": 3062, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3063,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 30, "name": "Albert Randall" }
+  },
+  {
+    "lockerNumber": 3064,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 51, "name": "Christina Spears" }
+  },
+  {
+    "lockerNumber": 3065,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 38, "name": "Ameer Patel" }
+  },
+  {
+    "lockerNumber": 3066,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 23, "name": "Madeline Rush" }
+  },
+  { "lockerNumber": 3067, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3068, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3069, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3070, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3071, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3072, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3073, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3074, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3075, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3076, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3077, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3078, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3079,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 25, "name": "Kaiser Stokes" }
+  },
+  { "lockerNumber": 3080, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3081,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 43, "name": "Miranda Duke" }
+  },
+  { "lockerNumber": 3082, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3083,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 8, "name": "Kalel Larson" }
+  },
+  { "lockerNumber": 3084, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3085,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 26, "name": "Alayna Figueroa" }
+  },
+  {
+    "lockerNumber": 3086,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 77, "name": "Spencer Howard" }
+  },
+  {
+    "lockerNumber": 3087,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 14, "name": "Sophie Durham" }
+  },
+  { "lockerNumber": 3088, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3089,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 15, "name": "Kellen Cameron" }
+  },
+  {
+    "lockerNumber": 3090,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 59, "name": "Julie Powell" }
+  },
+  {
+    "lockerNumber": 3091,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 69, "name": "Bennett Cohen" }
+  },
+  { "lockerNumber": 3092, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3093, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3094, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3095, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3096, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3097, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3098,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 95, "name": "Destiny Dunlap" }
+  },
+  { "lockerNumber": 3099, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3100,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 99, "name": "Aries Norton" }
+  },
+  {
+    "lockerNumber": 3101,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 74, "name": "Kylee Long" }
+  },
+  { "lockerNumber": 3102, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3103,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 94, "name": "Jace Rojas" }
+  },
+  { "lockerNumber": 3104, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3105, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3106, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3107,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 21, "name": "Adaline Collier" }
+  },
+  {
+    "lockerNumber": 3108,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 12, "name": "Edison Jenkins" }
+  },
+  {
+    "lockerNumber": 3109,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 26, "name": "Rylee Bravo" }
+  },
+  {
+    "lockerNumber": 3110,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 79, "name": "Genesis Sampson" }
+  },
+  { "lockerNumber": 3111, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3112,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 83, "name": "Meilani Schneider" }
+  },
+  { "lockerNumber": 3113, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3114, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3115,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 8, "name": "Raymond Whitehead" }
+  },
+  {
+    "lockerNumber": 3116,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 98, "name": "Sylvie Andersen" }
+  },
+  { "lockerNumber": 3117, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3118, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3119, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3120,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 93, "name": "Alistair Bean" }
+  },
+  {
+    "lockerNumber": 3121,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 8, "name": "Jenesis Kelley" }
+  },
+  { "lockerNumber": 3122, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3123, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3124, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3125, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3126, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3127,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 71, "name": "Eric Bender" }
+  },
+  {
+    "lockerNumber": 3128,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 20, "name": "Lilyana Frank" }
+  },
+  { "lockerNumber": 3129, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3130,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 26, "name": "Braylen Hurst" }
+  },
+  {
+    "lockerNumber": 3131,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 23, "name": "Adalee Carpenter" }
+  },
+  {
+    "lockerNumber": 3132,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 47, "name": "Jeremy Boyd" }
+  },
+  { "lockerNumber": 3133, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3134, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3135,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 75, "name": "Georgia Murray" }
+  },
+  { "lockerNumber": 3136, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3137,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 52, "name": "Ashton Mullins" }
+  },
+  { "lockerNumber": 3138, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3139,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 93, "name": "Maliyah O’Donnell" }
+  },
+  {
+    "lockerNumber": 3140,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 72, "name": "Lian Morales" }
+  },
+  { "lockerNumber": 3141, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3142,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 35, "name": "Skylar Mathis" }
+  },
+  {
+    "lockerNumber": 3143,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 73, "name": "Gustavo Parsons" }
+  },
+  { "lockerNumber": 3144, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3145, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3146,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 71, "name": "Maia Shields" }
+  },
+  { "lockerNumber": 3147, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3148, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3149, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3150, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3151, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3152,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 9, "name": "Devon Garner" }
+  },
+  { "lockerNumber": 3153, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3154, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3155, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3156,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 71, "name": "Jacqueline Huang" }
+  },
+  {
+    "lockerNumber": 3157,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 20, "name": "Ayaan Benjamin" }
+  },
+  {
+    "lockerNumber": 3158,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 19, "name": "Jianna Zimmerman" }
+  },
+  {
+    "lockerNumber": 3159,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 65, "name": "Sergio Peralta" }
+  },
+  {
+    "lockerNumber": 3160,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 31, "name": "Malayah Strickland" }
+  },
+  {
+    "lockerNumber": 3161,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 32, "name": "Keegan Lynch" }
+  },
+  { "lockerNumber": 3162, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3163,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 36, "name": "Malia Daugherty" }
+  },
+  { "lockerNumber": 3164, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3165,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 23, "name": "Turner Bowers" }
+  },
+  {
+    "lockerNumber": 3166,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 27, "name": "Elisa Stephens" }
+  },
+  {
+    "lockerNumber": 3167,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 22, "name": "Messiah Davis" }
+  },
+  { "lockerNumber": 3168, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3169,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 99, "name": "Mia Haley" }
+  },
+  {
+    "lockerNumber": 3170,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 46, "name": "Leif Cochran" }
+  },
+  { "lockerNumber": 3171, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3172, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3173,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 34, "name": "Alma Salinas" }
+  },
+  {
+    "lockerNumber": 3174,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 99, "name": "Edgar Jacobson" }
+  },
+  {
+    "lockerNumber": 3175,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 85, "name": "Royal Richard" }
+  },
+  { "lockerNumber": 3176, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3177,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 19, "name": "Ahmed Villarreal" }
+  },
+  { "lockerNumber": 3178, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3179,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 42, "name": "Jazlyn Brennan" }
+  },
+  {
+    "lockerNumber": 3180,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 66, "name": "Curtis Medina" }
+  },
+  {
+    "lockerNumber": 3181,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 56, "name": "Elliana Fields" }
+  },
+  {
+    "lockerNumber": 3182,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 99, "name": "Clayton Mullins" }
+  },
+  {
+    "lockerNumber": 3183,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 51, "name": "Maliyah Tang" }
+  },
+  {
+    "lockerNumber": 3184,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 66, "name": "Rogelio Smith" }
+  },
+  {
+    "lockerNumber": 3185,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 74, "name": "Olivia Pacheco" }
+  },
+  { "lockerNumber": 3186, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3187, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3188,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 24, "name": "Erik Higgins" }
+  },
+  {
+    "lockerNumber": 3189,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 17, "name": "Leighton Patton" }
+  },
+  {
+    "lockerNumber": 3190,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 59, "name": "Moises Hinton" }
+  },
+  {
+    "lockerNumber": 3191,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 89, "name": "Jaelynn Sexton" }
+  },
+  { "lockerNumber": 3192, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3193,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 91, "name": "Mylo Palmer" }
+  },
+  { "lockerNumber": 3194, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3195, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3196, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3197,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 51, "name": "Juniper Harrison" }
+  },
+  {
+    "lockerNumber": 3198,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 94, "name": "Gavin McIntosh" }
+  },
+  { "lockerNumber": 3199, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3200,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 59, "name": "Gwen Weber" }
+  },
+  {
+    "lockerNumber": 3201,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 28, "name": "Crew Warren" }
+  },
+  {
+    "lockerNumber": 3202,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 26, "name": "Sloane Horne" }
+  },
+  { "lockerNumber": 3203, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3204,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 99, "name": "Zev Hampton" }
+  },
+  {
+    "lockerNumber": 3205,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 96, "name": "Leona Anderson" }
+  },
+  {
+    "lockerNumber": 3206,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 89, "name": "Jacob Grimes" }
+  },
+  { "lockerNumber": 3207, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3208,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 41, "name": "Braelyn Merritt" }
+  },
+  {
+    "lockerNumber": 3209,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 81, "name": "Colten Weaver" }
+  },
+  { "lockerNumber": 3210, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3211, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3212,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 43, "name": "Teagan Morton" }
+  },
+  { "lockerNumber": 3213, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3214,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 14, "name": "Roland Gillespie" }
+  },
+  { "lockerNumber": 3215, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3216, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3217,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 93, "name": "Alianna Valencia" }
+  },
+  { "lockerNumber": 3218, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3219, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3220, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3221, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3222, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3223, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3224, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3225,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 91, "name": "Dax Shepherd" }
+  },
+  { "lockerNumber": 3226, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3227, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3228, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3229,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 72, "name": "Katalina Spencer" }
+  },
+  {
+    "lockerNumber": 3230,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 37, "name": "Ace Hubbard" }
+  },
+  {
+    "lockerNumber": 3231,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 83, "name": "Rosie Thornton" }
+  },
+  {
+    "lockerNumber": 3232,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 34, "name": "Malik Roy" }
+  },
+  {
+    "lockerNumber": 3233,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 39, "name": "Savanna Morales" }
+  },
+  { "lockerNumber": 3234, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3235,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 84, "name": "Aaron Rich" }
+  },
+  {
+    "lockerNumber": 3236,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 26, "name": "Sunny Camacho" }
+  },
+  {
+    "lockerNumber": 3237,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 14, "name": "Tatum Dawson" }
+  },
+  {
+    "lockerNumber": 3238,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 14, "name": "Veronica Alvarado" }
+  },
+  { "lockerNumber": 3239, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3240, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3241,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 88, "name": "Andres Fleming" }
+  },
+  {
+    "lockerNumber": 3242,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 85, "name": "Fatima Sherman" }
+  },
+  { "lockerNumber": 3243, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3244, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3245, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3246,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 45, "name": "Adan Snyder" }
+  },
+  { "lockerNumber": 3247, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3248, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3249,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 91, "name": "Callie Kline" }
+  },
+  { "lockerNumber": 3250, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3251, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3252,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 18, "name": "Ramon Parrish" }
+  },
+  { "lockerNumber": 3253, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3254,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 92, "name": "Tiana Cross" }
+  },
+  { "lockerNumber": 3255, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3256, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3257, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3258,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 33, "name": "Fabian Donaldson" }
+  },
+  {
+    "lockerNumber": 3259,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 49, "name": "Natasha Rosario" }
+  },
+  { "lockerNumber": 3260, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3261, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3262,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 56, "name": "Jedidiah Sawyer" }
+  },
+  { "lockerNumber": 3263, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3264, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3265, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3266,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 22, "name": "Marina Powell" }
+  },
+  { "lockerNumber": 3267, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3268, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3269,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 72, "name": "Bennett Carson" }
+  },
+  { "lockerNumber": 3270, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3271,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 94, "name": "Nalani Lane" }
+  },
+  {
+    "lockerNumber": 3272,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 63, "name": "Matias Melton" }
+  },
+  { "lockerNumber": 3273, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3274,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 85, "name": "Kamiyah Fields" }
+  },
+  {
+    "lockerNumber": 3275,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 45, "name": "Clayton Shaw" }
+  },
+  { "lockerNumber": 3276, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3277,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 14, "name": "Emersyn Henderson" }
+  },
+  {
+    "lockerNumber": 3278,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 99, "name": "Beau Walls" }
+  },
+  {
+    "lockerNumber": 3279,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 18, "name": "Lilianna Murray" }
+  },
+  { "lockerNumber": 3280, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3281, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3282, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3283,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 34, "name": "Ashton McClain" }
+  },
+  { "lockerNumber": 3284, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3285, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3286,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 48, "name": "Marleigh Calhoun" }
+  },
+  {
+    "lockerNumber": 3287,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 46, "name": "Gary Burton" }
+  },
+  { "lockerNumber": 3288, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3289,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 10, "name": "Miriam Foster" }
+  },
+  { "lockerNumber": 3290, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3291,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 15, "name": "Kayden Zavala" }
+  },
+  {
+    "lockerNumber": 3292,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 54, "name": "Liv Hill" }
+  },
+  { "lockerNumber": 3293, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3294,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 83, "name": "Isaac Hamilton" }
+  },
+  {
+    "lockerNumber": 3295,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 64, "name": "Mackenzie O’Neill" }
+  },
+  { "lockerNumber": 3296, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3297,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 13, "name": "Marcel Barton" }
+  },
+  { "lockerNumber": 3298, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 3299, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 3300,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 55, "name": "Danna Melton" }
+  },
+  {
+    "lockerNumber": 3301,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 65, "name": "Lennon Hayes" }
+  },
+  {
+    "lockerNumber": 3302,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 61, "name": "Iris Washington" }
+  },
+  { "lockerNumber": 3303, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 2176,
+    "Hallway": "Music",
+    "Owner": { "grade": 41, "name": "Juan Macias" }
+  },
+  {
+    "lockerNumber": 2177,
+    "Hallway": "Music",
+    "Owner": { "grade": 88, "name": "Adley Marks" }
+  },
+  {
+    "lockerNumber": 2178,
+    "Hallway": "Music",
+    "Owner": { "grade": 42, "name": "Amos Christensen" }
+  },
+  {
+    "lockerNumber": 2179,
+    "Hallway": "Music",
+    "Owner": { "grade": 51, "name": "Carmen Lin" }
+  },
+  { "lockerNumber": 2180, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2181, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2182, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2183, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2184,
+    "Hallway": "Music",
+    "Owner": { "grade": 6, "name": "Conor Clayton" }
+  },
+  {
+    "lockerNumber": 2185,
+    "Hallway": "Music",
+    "Owner": { "grade": 35, "name": "Saige Conley" }
+  },
+  { "lockerNumber": 2186, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2187,
+    "Hallway": "Music",
+    "Owner": { "grade": 31, "name": "Marvin Joseph" }
+  },
+  {
+    "lockerNumber": 2188,
+    "Hallway": "Music",
+    "Owner": { "grade": 85, "name": "Gracelynn Church" }
+  },
+  { "lockerNumber": 2189, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2190, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2191, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2192,
+    "Hallway": "Music",
+    "Owner": { "grade": 82, "name": "Terrance Shannon" }
+  },
+  { "lockerNumber": 2193, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2194,
+    "Hallway": "Music",
+    "Owner": { "grade": 22, "name": "Harlee Barr" }
+  },
+  { "lockerNumber": 2195, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2196, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2197, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2198,
+    "Hallway": "Music",
+    "Owner": { "grade": 13, "name": "Harley Richardson" }
+  },
+  {
+    "lockerNumber": 2199,
+    "Hallway": "Music",
+    "Owner": { "grade": 99, "name": "Allison Manning" }
+  },
+  { "lockerNumber": 2200, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2201,
+    "Hallway": "Music",
+    "Owner": { "grade": 35, "name": "Seth Cano" }
+  },
+  {
+    "lockerNumber": 2202,
+    "Hallway": "Music",
+    "Owner": { "grade": 33, "name": "Egypt Hunt" }
+  },
+  {
+    "lockerNumber": 2203,
+    "Hallway": "Music",
+    "Owner": { "grade": 5, "name": "Jesus Juarez" }
+  },
+  {
+    "lockerNumber": 2204,
+    "Hallway": "Music",
+    "Owner": { "grade": 49, "name": "Juliet Murillo" }
+  },
+  {
+    "lockerNumber": 2205,
+    "Hallway": "Music",
+    "Owner": { "grade": 79, "name": "Lance Wolf" }
+  },
+  {
+    "lockerNumber": 2206,
+    "Hallway": "Music",
+    "Owner": { "grade": 55, "name": "Jolene Bradford" }
+  },
+  { "lockerNumber": 2207, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2208, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2209,
+    "Hallway": "Music",
+    "Owner": { "grade": 28, "name": "Ander Marks" }
+  },
+  {
+    "lockerNumber": 2210,
+    "Hallway": "Music",
+    "Owner": { "grade": 31, "name": "Monica Thomas" }
+  },
+  { "lockerNumber": 2211, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2212,
+    "Hallway": "Music",
+    "Owner": { "grade": 95, "name": "Logan Kim" }
+  },
+  {
+    "lockerNumber": 2213,
+    "Hallway": "Music",
+    "Owner": { "grade": 54, "name": "Gabriella Pollard" }
+  },
+  {
+    "lockerNumber": 2214,
+    "Hallway": "Music",
+    "Owner": { "grade": 85, "name": "Jad Walls" }
+  },
+  { "lockerNumber": 2215, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2216,
+    "Hallway": "Music",
+    "Owner": { "grade": 89, "name": "Lilianna Baxter" }
+  },
+  { "lockerNumber": 2217, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2218,
+    "Hallway": "Music",
+    "Owner": { "grade": 78, "name": "Tomas Potts" }
+  },
+  { "lockerNumber": 2219, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2220,
+    "Hallway": "Music",
+    "Owner": { "grade": 20, "name": "Ellison Cox" }
+  },
+  { "lockerNumber": 2221, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2222, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2223,
+    "Hallway": "Music",
+    "Owner": { "grade": 28, "name": "Connor Calhoun" }
+  },
+  { "lockerNumber": 2224, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2225, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2226, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2227, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2228,
+    "Hallway": "Music",
+    "Owner": { "grade": 51, "name": "Thalia Craig" }
+  },
+  {
+    "lockerNumber": 2229,
+    "Hallway": "Music",
+    "Owner": { "grade": 19, "name": "Odin Greene" }
+  },
+  {
+    "lockerNumber": 2230,
+    "Hallway": "Music",
+    "Owner": { "grade": 22, "name": "Selena McCullough" }
+  },
+  {
+    "lockerNumber": 2231,
+    "Hallway": "Music",
+    "Owner": { "grade": 90, "name": "Briar House" }
+  },
+  { "lockerNumber": 2232, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2233, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2234, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2235, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2236, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2237,
+    "Hallway": "Music",
+    "Owner": { "grade": 13, "name": "Sariah Baldwin" }
+  },
+  {
+    "lockerNumber": 2238,
+    "Hallway": "Music",
+    "Owner": { "grade": 65, "name": "Jaiden Wiley" }
+  },
+  {
+    "lockerNumber": 2239,
+    "Hallway": "Music",
+    "Owner": { "grade": 13, "name": "Lauryn Vega" }
+  },
+  { "lockerNumber": 2240, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2241, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2242,
+    "Hallway": "Music",
+    "Owner": { "grade": 47, "name": "Aidan Acosta" }
+  },
+  {
+    "lockerNumber": 2243,
+    "Hallway": "Music",
+    "Owner": { "grade": 55, "name": "Kaia Vincent" }
+  },
+  { "lockerNumber": 2244, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2245, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2246, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2247, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2248, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2249,
+    "Hallway": "Music",
+    "Owner": { "grade": 6, "name": "Aarav Stout" }
+  },
+  {
+    "lockerNumber": 2250,
+    "Hallway": "Music",
+    "Owner": { "grade": 39, "name": "Chana Watson" }
+  },
+  { "lockerNumber": 2251, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2252,
+    "Hallway": "Music",
+    "Owner": { "grade": 4, "name": "Greyson Terry" }
+  },
+  { "lockerNumber": 2253, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2254, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2255, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2256, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2257, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2258,
+    "Hallway": "Music",
+    "Owner": { "grade": 91, "name": "Wren Howard" }
+  },
+  {
+    "lockerNumber": 2259,
+    "Hallway": "Music",
+    "Owner": { "grade": 34, "name": "Jeremiah Morrison" }
+  },
+  {
+    "lockerNumber": 2260,
+    "Hallway": "Music",
+    "Owner": { "grade": 26, "name": "Rebecca Dejesus" }
+  },
+  { "lockerNumber": 2261, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2262, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2263, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2264, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2265,
+    "Hallway": "Music",
+    "Owner": { "grade": 55, "name": "Rio Shepherd" }
+  },
+  { "lockerNumber": 2266, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2267,
+    "Hallway": "Music",
+    "Owner": { "grade": 42, "name": "Katalina Leach" }
+  },
+  {
+    "lockerNumber": 2268,
+    "Hallway": "Music",
+    "Owner": { "grade": 50, "name": "Westin Pugh" }
+  },
+  { "lockerNumber": 2269, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2270,
+    "Hallway": "Music",
+    "Owner": { "grade": 73, "name": "Landry Wong" }
+  },
+  { "lockerNumber": 2271, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2272,
+    "Hallway": "Music",
+    "Owner": { "grade": 23, "name": "Walter Hancock" }
+  },
+  { "lockerNumber": 2273, "Hallway": "Music", "Owner": null },
+  {
+    "lockerNumber": 2274,
+    "Hallway": "Music",
+    "Owner": { "grade": 16, "name": "Katelyn Diaz" }
+  },
+  { "lockerNumber": 2275, "Hallway": "Music", "Owner": null },
+  { "lockerNumber": 2276, "Hallway": "Office", "Owner": null },
+  {
+    "lockerNumber": 2277,
+    "Hallway": "Office",
+    "Owner": { "grade": 61, "name": "Nathan Gilbert" }
+  },
+  { "lockerNumber": 2278, "Hallway": "Office", "Owner": null },
+  {
+    "lockerNumber": 2279,
+    "Hallway": "Office",
+    "Owner": { "grade": 82, "name": "Jocelyn Moss" }
+  },
+  {
+    "lockerNumber": 2280,
+    "Hallway": "Office",
+    "Owner": { "grade": 96, "name": "Porter Brown" }
+  },
+  {
+    "lockerNumber": 2281,
+    "Hallway": "Office",
+    "Owner": { "grade": 17, "name": "Charlotte Zimmerman" }
+  },
+  { "lockerNumber": 2282, "Hallway": "Office", "Owner": null },
+  {
+    "lockerNumber": 2283,
+    "Hallway": "Office",
+    "Owner": { "grade": 91, "name": "Sergio Lester" }
+  },
+  { "lockerNumber": 2284, "Hallway": "Office", "Owner": null },
+  {
+    "lockerNumber": 2285,
+    "Hallway": "Office",
+    "Owner": { "grade": 52, "name": "Averi Christensen" }
+  },
+  {
+    "lockerNumber": 2286,
+    "Hallway": "Office",
+    "Owner": { "grade": 94, "name": "Gregory Gill" }
+  },
+  { "lockerNumber": 2287, "Hallway": "Office", "Owner": null },
+  {
+    "lockerNumber": 2288,
+    "Hallway": "Office",
+    "Owner": { "grade": 91, "name": "Jordan Lane" }
+  },
+  { "lockerNumber": 2289, "Hallway": "Office", "Owner": null },
+  {
+    "lockerNumber": 2290,
+    "Hallway": "Office",
+    "Owner": { "grade": 79, "name": "Matias Vasquez" }
+  },
+  { "lockerNumber": 2291, "Hallway": "Office", "Owner": null },
+  { "lockerNumber": 2292, "Hallway": "Office", "Owner": null },
+  {
+    "lockerNumber": 2293,
+    "Hallway": "Office",
+    "Owner": { "grade": 56, "name": "Rose Armstrong" }
+  },
+  { "lockerNumber": 2294, "Hallway": "Office", "Owner": null },
+  {
+    "lockerNumber": 2295,
+    "Hallway": "Office",
+    "Owner": { "grade": 27, "name": "Grant Hoffman" }
+  },
+  {
+    "lockerNumber": 2296,
+    "Hallway": "Office",
+    "Owner": { "grade": 49, "name": "Aspen Blair" }
+  },
+  { "lockerNumber": 2297, "Hallway": "Office", "Owner": null },
+  { "lockerNumber": 2298, "Hallway": "Office", "Owner": null },
+  { "lockerNumber": 2299, "Hallway": "Office", "Owner": null },
+  { "lockerNumber": 2300, "Hallway": "Office", "Owner": null },
+  { "lockerNumber": 2301, "Hallway": "Office", "Owner": null },
+  {
+    "lockerNumber": 2302,
+    "Hallway": "Office",
+    "Owner": { "grade": 62, "name": "Troy Poole" }
+  },
+  {
+    "lockerNumber": 2303,
+    "Hallway": "Office",
+    "Owner": { "grade": 42, "name": "Bonnie Meza" }
+  },
+  {
+    "lockerNumber": 2304,
+    "Hallway": "Office",
+    "Owner": { "grade": 31, "name": "Lucian Knapp" }
+  },
+  { "lockerNumber": 2305, "Hallway": "Office", "Owner": null },
+  { "lockerNumber": 2306, "Hallway": "Office", "Owner": null },
+  { "lockerNumber": 2307, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2308, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2309,
+    "Hallway": "English",
+    "Owner": { "grade": 98, "name": "Linda Shaw" }
+  },
+  {
+    "lockerNumber": 2310,
+    "Hallway": "English",
+    "Owner": { "grade": 62, "name": "Elliot Graham" }
+  },
+  {
+    "lockerNumber": 2311,
+    "Hallway": "English",
+    "Owner": { "grade": 9, "name": "Alaia Rush" }
+  },
+  {
+    "lockerNumber": 2312,
+    "Hallway": "English",
+    "Owner": { "grade": 37, "name": "Kaiser Glover" }
+  },
+  { "lockerNumber": 2313, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2314, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2315,
+    "Hallway": "English",
+    "Owner": { "grade": 73, "name": "Alessia Bush" }
+  },
+  { "lockerNumber": 2316, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2317,
+    "Hallway": "English",
+    "Owner": { "grade": 63, "name": "Tyson Blanchard" }
+  },
+  { "lockerNumber": 2318, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2319,
+    "Hallway": "English",
+    "Owner": { "grade": 67, "name": "Layne Martin" }
+  },
+  { "lockerNumber": 2320, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2321,
+    "Hallway": "English",
+    "Owner": { "grade": 35, "name": "Mateo Knapp" }
+  },
+  {
+    "lockerNumber": 2322,
+    "Hallway": "English",
+    "Owner": { "grade": 20, "name": "Linda Carpenter" }
+  },
+  { "lockerNumber": 2323, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2324, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2325,
+    "Hallway": "English",
+    "Owner": { "grade": 33, "name": "Jeremy Davidson" }
+  },
+  {
+    "lockerNumber": 2326,
+    "Hallway": "English",
+    "Owner": { "grade": 58, "name": "Jayla Ball" }
+  },
+  {
+    "lockerNumber": 2327,
+    "Hallway": "English",
+    "Owner": { "grade": 90, "name": "Shane Hill" }
+  },
+  { "lockerNumber": 2328, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2329, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2330,
+    "Hallway": "English",
+    "Owner": { "grade": 94, "name": "Hannah Santos" }
+  },
+  {
+    "lockerNumber": 2331,
+    "Hallway": "English",
+    "Owner": { "grade": 48, "name": "Walker Hardin" }
+  },
+  { "lockerNumber": 2332, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2333, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2334, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2335, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2336,
+    "Hallway": "English",
+    "Owner": { "grade": 17, "name": "Vada Kane" }
+  },
+  { "lockerNumber": 2337, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2338, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2339,
+    "Hallway": "English",
+    "Owner": { "grade": 25, "name": "Brock Singleton" }
+  },
+  {
+    "lockerNumber": 2340,
+    "Hallway": "English",
+    "Owner": { "grade": 87, "name": "Malaysia Travis" }
+  },
+  {
+    "lockerNumber": 2341,
+    "Hallway": "English",
+    "Owner": { "grade": 7, "name": "Willie Hamilton" }
+  },
+  {
+    "lockerNumber": 2342,
+    "Hallway": "English",
+    "Owner": { "grade": 37, "name": "Mackenzie Costa" }
+  },
+  {
+    "lockerNumber": 2343,
+    "Hallway": "English",
+    "Owner": { "grade": 24, "name": "Kenji Huerta" }
+  },
+  { "lockerNumber": 2344, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2345,
+    "Hallway": "English",
+    "Owner": { "grade": 72, "name": "Dulce Merritt" }
+  },
+  {
+    "lockerNumber": 2346,
+    "Hallway": "English",
+    "Owner": { "grade": 53, "name": "Colten Torres" }
+  },
+  { "lockerNumber": 2347, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2348, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2349, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2350,
+    "Hallway": "English",
+    "Owner": { "grade": 11, "name": "Violet Hill" }
+  },
+  { "lockerNumber": 2351, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2352, "Hallway": "English", "Owner": null },
+  { "lockerNumber": 2353, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2354,
+    "Hallway": "English",
+    "Owner": { "grade": 55, "name": "Isaac Aguilar" }
+  },
+  { "lockerNumber": 2355, "Hallway": "English", "Owner": null },
+  {
+    "lockerNumber": 2356,
+    "Hallway": "Science",
+    "Owner": { "grade": 58, "name": "Josie Morales" }
+  },
+  {
+    "lockerNumber": 2357,
+    "Hallway": "Science",
+    "Owner": { "grade": 14, "name": "Aaron Vu" }
+  },
+  { "lockerNumber": 2358, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2359,
+    "Hallway": "Science",
+    "Owner": { "grade": 20, "name": "Kimora Portillo" }
+  },
+  {
+    "lockerNumber": 2360,
+    "Hallway": "Science",
+    "Owner": { "grade": 6, "name": "Wallace Santiago" }
+  },
+  { "lockerNumber": 2361, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2362, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2363,
+    "Hallway": "Science",
+    "Owner": { "grade": 21, "name": "Nyla Terry" }
+  },
+  { "lockerNumber": 2364, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2365, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2366, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2367, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2368,
+    "Hallway": "Science",
+    "Owner": { "grade": 53, "name": "Armani Anthony" }
+  },
+  {
+    "lockerNumber": 2369,
+    "Hallway": "Science",
+    "Owner": { "grade": 90, "name": "Macy Garner" }
+  },
+  { "lockerNumber": 2370, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2371,
+    "Hallway": "Science",
+    "Owner": { "grade": 29, "name": "Sage Turner" }
+  },
+  { "lockerNumber": 2372, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2373, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2374, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2375,
+    "Hallway": "Science",
+    "Owner": { "grade": 24, "name": "Brooklyn Palmer" }
+  },
+  { "lockerNumber": 2376, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2377,
+    "Hallway": "Science",
+    "Owner": { "grade": 37, "name": "Theo Day" }
+  },
+  { "lockerNumber": 2378, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2379, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2380,
+    "Hallway": "Science",
+    "Owner": { "grade": 15, "name": "Hayden Strickland" }
+  },
+  {
+    "lockerNumber": 2381,
+    "Hallway": "Science",
+    "Owner": { "grade": 95, "name": "Keegan Prince" }
+  },
+  {
+    "lockerNumber": 2382,
+    "Hallway": "Science",
+    "Owner": { "grade": 17, "name": "Greta Ingram" }
+  },
+  {
+    "lockerNumber": 2383,
+    "Hallway": "Science",
+    "Owner": { "grade": 86, "name": "Tripp Barton" }
+  },
+  { "lockerNumber": 2384, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2385, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2386, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2387,
+    "Hallway": "Science",
+    "Owner": { "grade": 85, "name": "Danna Vazquez" }
+  },
+  {
+    "lockerNumber": 2388,
+    "Hallway": "Science",
+    "Owner": { "grade": 36, "name": "Jesse Dougherty" }
+  },
+  {
+    "lockerNumber": 2389,
+    "Hallway": "Science",
+    "Owner": { "grade": 77, "name": "Alisson Lucero" }
+  },
+  { "lockerNumber": 2390, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2391,
+    "Hallway": "Science",
+    "Owner": { "grade": 68, "name": "Felipe Ayala" }
+  },
+  {
+    "lockerNumber": 2392,
+    "Hallway": "Science",
+    "Owner": { "grade": 93, "name": "Blair Warren" }
+  },
+  {
+    "lockerNumber": 2393,
+    "Hallway": "Science",
+    "Owner": { "grade": 5, "name": "Abel Bowen" }
+  },
+  {
+    "lockerNumber": 2394,
+    "Hallway": "Science",
+    "Owner": { "grade": 10, "name": "Dream Myers" }
+  },
+  { "lockerNumber": 2395, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2396, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2397, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2398,
+    "Hallway": "Science",
+    "Owner": { "grade": 18, "name": "Adam Joseph" }
+  },
+  { "lockerNumber": 2399, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2400, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2401,
+    "Hallway": "Science",
+    "Owner": { "grade": 46, "name": "Gracelynn Ortega" }
+  },
+  { "lockerNumber": 2402, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2403,
+    "Hallway": "Science",
+    "Owner": { "grade": 64, "name": "Kobe Bautista" }
+  },
+  { "lockerNumber": 2404, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2405, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2406, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2407,
+    "Hallway": "Science",
+    "Owner": { "grade": 11, "name": "Antonella Wilcox" }
+  },
+  {
+    "lockerNumber": 2408,
+    "Hallway": "Science",
+    "Owner": { "grade": 46, "name": "Jerry Dalton" }
+  },
+  { "lockerNumber": 2409, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2410,
+    "Hallway": "Science",
+    "Owner": { "grade": 71, "name": "Lilian Lara" }
+  },
+  {
+    "lockerNumber": 2411,
+    "Hallway": "Science",
+    "Owner": { "grade": 38, "name": "Caiden Proctor" }
+  },
+  {
+    "lockerNumber": 2412,
+    "Hallway": "Science",
+    "Owner": { "grade": 18, "name": "Chandler Boyer" }
+  },
+  { "lockerNumber": 2413, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2414, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2415,
+    "Hallway": "Science",
+    "Owner": { "grade": 42, "name": "Zeke Stanton" }
+  },
+  {
+    "lockerNumber": 2416,
+    "Hallway": "Science",
+    "Owner": { "grade": 53, "name": "Jaycee Taylor" }
+  },
+  {
+    "lockerNumber": 2417,
+    "Hallway": "Science",
+    "Owner": { "grade": 79, "name": "Jackson Castro" }
+  },
+  { "lockerNumber": 2418, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2419,
+    "Hallway": "Science",
+    "Owner": { "grade": 28, "name": "Eloise Holt" }
+  },
+  { "lockerNumber": 2420, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2421, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2422,
+    "Hallway": "Science",
+    "Owner": { "grade": 45, "name": "Niko Collier" }
+  },
+  { "lockerNumber": 2423, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2424, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2425, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2426,
+    "Hallway": "Science",
+    "Owner": { "grade": 62, "name": "Ivory Beltran" }
+  },
+  {
+    "lockerNumber": 2427,
+    "Hallway": "Science",
+    "Owner": { "grade": 39, "name": "Ricky Dickson" }
+  },
+  { "lockerNumber": 2428, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2429, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2430,
+    "Hallway": "Science",
+    "Owner": { "grade": 27, "name": "Emmalynn Blackburn" }
+  },
+  {
+    "lockerNumber": 2431,
+    "Hallway": "Science",
+    "Owner": { "grade": 68, "name": "Zahir Enriquez" }
+  },
+  { "lockerNumber": 2432, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2433, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2434,
+    "Hallway": "Science",
+    "Owner": { "grade": 23, "name": "Nellie Kramer" }
+  },
+  {
+    "lockerNumber": 2435,
+    "Hallway": "Science",
+    "Owner": { "grade": 51, "name": "Kylan Mullins" }
+  },
+  { "lockerNumber": 2436, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2437, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2438, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2439, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2440,
+    "Hallway": "Science",
+    "Owner": { "grade": 8, "name": "Maliyah Luna" }
+  },
+  {
+    "lockerNumber": 2441,
+    "Hallway": "Science",
+    "Owner": { "grade": 31, "name": "Erick Woods" }
+  },
+  { "lockerNumber": 2442, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2443, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2444,
+    "Hallway": "Science",
+    "Owner": { "grade": 4, "name": "Reese Burke" }
+  },
+  { "lockerNumber": 2445, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2446, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2447,
+    "Hallway": "Science",
+    "Owner": { "grade": 97, "name": "Jax Tanner" }
+  },
+  { "lockerNumber": 2448, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2449, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2450,
+    "Hallway": "Science",
+    "Owner": { "grade": 24, "name": "Harmoni Patterson" }
+  },
+  { "lockerNumber": 2451, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2452,
+    "Hallway": "Science",
+    "Owner": { "grade": 73, "name": "Amir Fischer" }
+  },
+  { "lockerNumber": 2453, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2454, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2455,
+    "Hallway": "Science",
+    "Owner": { "grade": 58, "name": "Maci Ho" }
+  },
+  {
+    "lockerNumber": 2456,
+    "Hallway": "Science",
+    "Owner": { "grade": 32, "name": "Morgan Franco" }
+  },
+  { "lockerNumber": 2457, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2458, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2459, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2460, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2461,
+    "Hallway": "Science",
+    "Owner": { "grade": 94, "name": "Charleigh Banks" }
+  },
+  { "lockerNumber": 2462, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2463,
+    "Hallway": "Science",
+    "Owner": { "grade": 76, "name": "Martin Medrano" }
+  },
+  { "lockerNumber": 2464, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2465, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2466, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2467,
+    "Hallway": "Science",
+    "Owner": { "grade": 24, "name": "Halle Grimes" }
+  },
+  {
+    "lockerNumber": 2468,
+    "Hallway": "Science",
+    "Owner": { "grade": 11, "name": "Harlan Costa" }
+  },
+  { "lockerNumber": 2469, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2470, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2471,
+    "Hallway": "Science",
+    "Owner": { "grade": 74, "name": "Robin Aguirre" }
+  },
+  { "lockerNumber": 2472, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2473, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2474,
+    "Hallway": "Science",
+    "Owner": { "grade": 14, "name": "Andy English" }
+  },
+  {
+    "lockerNumber": 2475,
+    "Hallway": "Science",
+    "Owner": { "grade": 72, "name": "Kelly Nicholson" }
+  },
+  {
+    "lockerNumber": 2476,
+    "Hallway": "Science",
+    "Owner": { "grade": 43, "name": "Rodrigo Acevedo" }
+  },
+  { "lockerNumber": 2477, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2478,
+    "Hallway": "Science",
+    "Owner": { "grade": 56, "name": "Ashlynn Sims" }
+  },
+  { "lockerNumber": 2479, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2480, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2481,
+    "Hallway": "Science",
+    "Owner": { "grade": 11, "name": "Brian Hawkins" }
+  },
+  {
+    "lockerNumber": 2482,
+    "Hallway": "Science",
+    "Owner": { "grade": 66, "name": "Ariel Chambers" }
+  },
+  {
+    "lockerNumber": 2483,
+    "Hallway": "Science",
+    "Owner": { "grade": 69, "name": "Orion Bowman" }
+  },
+  { "lockerNumber": 2484, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2485, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2486,
+    "Hallway": "Science",
+    "Owner": { "grade": 40, "name": "Fiona Clark" }
+  },
+  {
+    "lockerNumber": 2487,
+    "Hallway": "Science",
+    "Owner": { "grade": 41, "name": "John Ponce" }
+  },
+  { "lockerNumber": 2488, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2489, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2490, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2491,
+    "Hallway": "Science",
+    "Owner": { "grade": 4, "name": "Aileen McCullough" }
+  },
+  { "lockerNumber": 2492, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2493, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2494, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2495, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 2496,
+    "Hallway": "Science",
+    "Owner": { "grade": 68, "name": "Briar Vu" }
+  },
+  {
+    "lockerNumber": 2497,
+    "Hallway": "Science",
+    "Owner": { "grade": 5, "name": "Kimora Chambers" }
+  },
+  {
+    "lockerNumber": 2498,
+    "Hallway": "Science",
+    "Owner": { "grade": 41, "name": "Orion Simmons" }
+  },
+  {
+    "lockerNumber": 2499,
+    "Hallway": "Science",
+    "Owner": { "grade": 39, "name": "Reagan Page" }
+  },
+  {
+    "lockerNumber": 2500,
+    "Hallway": "Science",
+    "Owner": { "grade": 79, "name": "Pablo Chang" }
+  },
+  { "lockerNumber": 2501, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2502, "Hallway": "Science", "Owner": null },
+  { "lockerNumber": 2503, "Hallway": "Science", "Owner": null },
+  {
+    "lockerNumber": 4001,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 30, "name": "Ophelia Benitez" }
+  },
+  {
+    "lockerNumber": 4002,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 37, "name": "Justice Alfaro" }
+  },
+  { "lockerNumber": 4003, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4004,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 89, "name": "Yasmin Greene" }
+  },
+  {
+    "lockerNumber": 4005,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 37, "name": "Griffin Jarvis" }
+  },
+  {
+    "lockerNumber": 4006,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 46, "name": "Elisabeth Hunter" }
+  },
+  {
+    "lockerNumber": 4007,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 33, "name": "Archer Yu" }
+  },
+  {
+    "lockerNumber": 4008,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 93, "name": "Navy McDaniel" }
+  },
+  { "lockerNumber": 4009, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4010,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 100, "name": "Major Gill" }
+  },
+  { "lockerNumber": 4011, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4012, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4013, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4014, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4015,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 48, "name": "Jordan Livingston" }
+  },
+  { "lockerNumber": 4016, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4017, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4018,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 11, "name": "Ambrose Myers" }
+  },
+  { "lockerNumber": 4019, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4020, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4021,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 7, "name": "Lydia Hendrix" }
+  },
+  {
+    "lockerNumber": 4022,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 9, "name": "Korbyn Trevino" }
+  },
+  {
+    "lockerNumber": 4023,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 6, "name": "Priscilla Haley" }
+  },
+  { "lockerNumber": 4024, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4025,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 21, "name": "Leif Perkins" }
+  },
+  {
+    "lockerNumber": 4026,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 97, "name": "Sage Pacheco" }
+  },
+  {
+    "lockerNumber": 4027,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 32, "name": "Erik Newman" }
+  },
+  { "lockerNumber": 4028, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4029, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4030,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 46, "name": "Oaklynn Espinosa" }
+  },
+  {
+    "lockerNumber": 4031,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 77, "name": "Khalid Simon" }
+  },
+  {
+    "lockerNumber": 4032,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 91, "name": "Kalani Martinez" }
+  },
+  { "lockerNumber": 4033, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4034, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4035,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 13, "name": "Alexander McIntyre" }
+  },
+  { "lockerNumber": 4036, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4037,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 82, "name": "Rebekah Ortiz" }
+  },
+  {
+    "lockerNumber": 4038,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 52, "name": "Landon Kaur" }
+  },
+  { "lockerNumber": 4039, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4040, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4041, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4042,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 11, "name": "Holland Mercado" }
+  },
+  { "lockerNumber": 4043, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4044, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4045,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 89, "name": "Abram Clayton" }
+  },
+  { "lockerNumber": 4046, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4047, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4048, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4049, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4050,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 47, "name": "Saige Randolph" }
+  },
+  { "lockerNumber": 4051, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4052,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 89, "name": "Eugene Duncan" }
+  },
+  { "lockerNumber": 4053, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4054,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 93, "name": "Elise Medrano" }
+  },
+  { "lockerNumber": 4055, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4056, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4057, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4058, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4059, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4060,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 100, "name": "Arian Deleon" }
+  },
+  {
+    "lockerNumber": 4061,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 72, "name": "Gabrielle Marsh" }
+  },
+  {
+    "lockerNumber": 4062,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 77, "name": "Bo Soto" }
+  },
+  { "lockerNumber": 4063, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4064,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 68, "name": "Brynlee Lugo" }
+  },
+  {
+    "lockerNumber": 4065,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 75, "name": "Santos Parrish" }
+  },
+  { "lockerNumber": 4066, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4067,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 64, "name": "Tiana Ahmed" }
+  },
+  { "lockerNumber": 4068, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4069,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 32, "name": "Harry Haynes" }
+  },
+  {
+    "lockerNumber": 4070,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 75, "name": "Lexi Dalton" }
+  },
+  { "lockerNumber": 4071, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4072, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4073, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4074, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4075, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4076, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4077,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 33, "name": "Fletcher Church" }
+  },
+  {
+    "lockerNumber": 4078,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 97, "name": "Ayleen Lester" }
+  },
+  { "lockerNumber": 4079, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4080,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 66, "name": "Lee Townsend" }
+  },
+  { "lockerNumber": 4081, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4082,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 48, "name": "Azalea King" }
+  },
+  {
+    "lockerNumber": 4083,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 19, "name": "Julian Cochran" }
+  },
+  { "lockerNumber": 4084, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4085, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4086,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 31, "name": "Alma Trejo" }
+  },
+  { "lockerNumber": 4087, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4088,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 30, "name": "Wesson Wood" }
+  },
+  {
+    "lockerNumber": 4089,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 61, "name": "Natalia Warren" }
+  },
+  { "lockerNumber": 4090, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4091,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 75, "name": "Abel Griffin" }
+  },
+  {
+    "lockerNumber": 4092,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 68, "name": "Charlie Walton" }
+  },
+  {
+    "lockerNumber": 4093,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 63, "name": "Dominick Bowers" }
+  },
+  { "lockerNumber": 4094, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4095, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4096, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4097,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 80, "name": "Elisa Martin" }
+  },
+  { "lockerNumber": 4098, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4099,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 44, "name": "Mateo Adams" }
+  },
+  {
+    "lockerNumber": 4100,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 16, "name": "Stella Delarosa" }
+  },
+  { "lockerNumber": 4101, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4102, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4103,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 56, "name": "Osiris Deleon" }
+  },
+  {
+    "lockerNumber": 4104,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 85, "name": "Gabrielle Meza" }
+  },
+  {
+    "lockerNumber": 4105,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 44, "name": "Lucian Coleman" }
+  },
+  {
+    "lockerNumber": 4106,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 22, "name": "Julia Vasquez" }
+  },
+  { "lockerNumber": 4107, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4108, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4109, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4110, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4111,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 4, "name": "Rowan Roy" }
+  },
+  {
+    "lockerNumber": 4200,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 98, "name": "Savanna Barton" }
+  },
+  { "lockerNumber": 4201, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4202, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4203,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 84, "name": "Cassius Lloyd" }
+  },
+  {
+    "lockerNumber": 4204,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 48, "name": "Emely Moreno" }
+  },
+  {
+    "lockerNumber": 4205,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 25, "name": "Myles Dougherty" }
+  },
+  {
+    "lockerNumber": 4206,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 65, "name": "Alisson Bush" }
+  },
+  { "lockerNumber": 4207, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4208, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4209,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 13, "name": "Tyson Xiong" }
+  },
+  { "lockerNumber": 4210, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4211,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 50, "name": "Amayah Vo" }
+  },
+  {
+    "lockerNumber": 4212,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 67, "name": "Gordon Heath" }
+  },
+  {
+    "lockerNumber": 4213,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 68, "name": "Amani Rivera" }
+  },
+  { "lockerNumber": 4214, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4215,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 8, "name": "Charles Escobar" }
+  },
+  {
+    "lockerNumber": 4216,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 5, "name": "Erin Wyatt" }
+  },
+  {
+    "lockerNumber": 4217,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 79, "name": "Sam Portillo" }
+  },
+  { "lockerNumber": 4218, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4219,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 44, "name": "Nathalie Berg" }
+  },
+  { "lockerNumber": 4220, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4221,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 61, "name": "Cayson Stevenson" }
+  },
+  { "lockerNumber": 4222, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4223,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 95, "name": "Regina Tang" }
+  },
+  { "lockerNumber": 4224, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4225,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 14, "name": "Rogelio Hahn" }
+  },
+  { "lockerNumber": 4226, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4227, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4228, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4229,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 90, "name": "Fallon McConnell" }
+  },
+  {
+    "lockerNumber": 4230,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 51, "name": "London Velasquez" }
+  },
+  {
+    "lockerNumber": 4231,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 92, "name": "Esme Caldwell" }
+  },
+  { "lockerNumber": 4232, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4233,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 43, "name": "Rylan Guerrero" }
+  },
+  { "lockerNumber": 4234, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4235,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 97, "name": "Margot Dominguez" }
+  },
+  { "lockerNumber": 4236, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4237,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 25, "name": "Kaden Nava" }
+  },
+  { "lockerNumber": 4238, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4239,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 77, "name": "Scout Schroeder" }
+  },
+  { "lockerNumber": 4240, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4241, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4242, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4243, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4244, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4245, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4246,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 48, "name": "Izaiah Everett" }
+  },
+  {
+    "lockerNumber": 4247,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 23, "name": "Noah Santiago" }
+  },
+  {
+    "lockerNumber": 4248,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 44, "name": "Beckham Lowery" }
+  },
+  { "lockerNumber": 4249, "Hallway": "South Wing", "Owner": null },
+  { "lockerNumber": 4250, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4251,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 5, "name": "Estelle Wolfe" }
+  },
+  { "lockerNumber": 4252, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4253,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 31, "name": "Donovan Lugo" }
+  },
+  {
+    "lockerNumber": 4254,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 92, "name": "Kaylie Avila" }
+  },
+  { "lockerNumber": 4255, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 4256,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 29, "name": "Jaylen Bell" }
+  },
+  {
+    "lockerNumber": 4257,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 86, "name": "Melody Eaton" }
+  },
+  {
+    "lockerNumber": 4258,
+    "Hallway": "South Wing",
+    "Owner": { "grade": 98, "name": "Leighton Adams" }
+  },
+  { "lockerNumber": 4259, "Hallway": "South Wing", "Owner": null },
+  {
+    "lockerNumber": 6000,
+    "Hallway": "Math",
+    "Owner": { "grade": 18, "name": "Stella Richmond" }
+  },
+  { "lockerNumber": 6001, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6002,
+    "Hallway": "Math",
+    "Owner": { "grade": 79, "name": "Mordechai Boyle" }
+  },
+  { "lockerNumber": 6003, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6004,
+    "Hallway": "Math",
+    "Owner": { "grade": 99, "name": "Aliya Kerr" }
+  },
+  {
+    "lockerNumber": 6005,
+    "Hallway": "Math",
+    "Owner": { "grade": 12, "name": "Louie Pierce" }
+  },
+  { "lockerNumber": 6006, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6007,
+    "Hallway": "Math",
+    "Owner": { "grade": 49, "name": "Arabella Collier" }
+  },
+  {
+    "lockerNumber": 6008,
+    "Hallway": "Math",
+    "Owner": { "grade": 83, "name": "Edison Poole" }
+  },
+  {
+    "lockerNumber": 6009,
+    "Hallway": "Math",
+    "Owner": { "grade": 68, "name": "Bonnie Becker" }
+  },
+  {
+    "lockerNumber": 6010,
+    "Hallway": "Math",
+    "Owner": { "grade": 23, "name": "Lawson Jarvis" }
+  },
+  {
+    "lockerNumber": 6011,
+    "Hallway": "Math",
+    "Owner": { "grade": 66, "name": "Elisabeth Herman" }
+  },
+  { "lockerNumber": 6012, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6013,
+    "Hallway": "Math",
+    "Owner": { "grade": 10, "name": "Juelz Bowen" }
+  },
+  { "lockerNumber": 6014, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6015,
+    "Hallway": "Math",
+    "Owner": { "grade": 94, "name": "Dream Lawrence" }
+  },
+  { "lockerNumber": 6016, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6017, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6018,
+    "Hallway": "Math",
+    "Owner": { "grade": 74, "name": "Kaleb Tucker" }
+  },
+  { "lockerNumber": 6019, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6020, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6021,
+    "Hallway": "Math",
+    "Owner": { "grade": 82, "name": "Esther Huber" }
+  },
+  {
+    "lockerNumber": 6022,
+    "Hallway": "Math",
+    "Owner": { "grade": 26, "name": "Mac Rush" }
+  },
+  { "lockerNumber": 6023, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6024, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6025,
+    "Hallway": "Math",
+    "Owner": { "grade": 16, "name": "Maleah Pugh" }
+  },
+  { "lockerNumber": 6026, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6027,
+    "Hallway": "Math",
+    "Owner": { "grade": 78, "name": "Judson Peck" }
+  },
+  {
+    "lockerNumber": 6028,
+    "Hallway": "Math",
+    "Owner": { "grade": 77, "name": "Crystal Harris" }
+  },
+  {
+    "lockerNumber": 6029,
+    "Hallway": "Math",
+    "Owner": { "grade": 95, "name": "Samuel McMahon" }
+  },
+  {
+    "lockerNumber": 6030,
+    "Hallway": "Math",
+    "Owner": { "grade": 66, "name": "Belen Craig" }
+  },
+  {
+    "lockerNumber": 6031,
+    "Hallway": "Math",
+    "Owner": { "grade": 97, "name": "Odin Fletcher" }
+  },
+  { "lockerNumber": 6032, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6033,
+    "Hallway": "Math",
+    "Owner": { "grade": 22, "name": "Anaya Garner" }
+  },
+  { "lockerNumber": 6034, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6035, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6036,
+    "Hallway": "Math",
+    "Owner": { "grade": 31, "name": "Sage Jimenez" }
+  },
+  {
+    "lockerNumber": 6037,
+    "Hallway": "Math",
+    "Owner": { "grade": 78, "name": "Adeline Branch" }
+  },
+  { "lockerNumber": 6038, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6039, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6040,
+    "Hallway": "Math",
+    "Owner": { "grade": 98, "name": "Keenan Knapp" }
+  },
+  { "lockerNumber": 6041, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6042,
+    "Hallway": "Math",
+    "Owner": { "grade": 48, "name": "Linda Mason" }
+  },
+  {
+    "lockerNumber": 6043,
+    "Hallway": "Math",
+    "Owner": { "grade": 18, "name": "Brandon Stevens" }
+  },
+  { "lockerNumber": 6044, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6045, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6046,
+    "Hallway": "Math",
+    "Owner": { "grade": 4, "name": "Katherine Klein" }
+  },
+  { "lockerNumber": 6047, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6048,
+    "Hallway": "Math",
+    "Owner": { "grade": 87, "name": "Marco Villalobos" }
+  },
+  { "lockerNumber": 6049, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6050, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6051, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6052,
+    "Hallway": "Math",
+    "Owner": { "grade": 13, "name": "Zoya McGee" }
+  },
+  {
+    "lockerNumber": 6053,
+    "Hallway": "Math",
+    "Owner": { "grade": 44, "name": "Conner Dean" }
+  },
+  {
+    "lockerNumber": 6054,
+    "Hallway": "Math",
+    "Owner": { "grade": 73, "name": "Julianna Berg" }
+  },
+  {
+    "lockerNumber": 6055,
+    "Hallway": "Math",
+    "Owner": { "grade": 94, "name": "Cayson Ventura" }
+  },
+  { "lockerNumber": 6056, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6057,
+    "Hallway": "Math",
+    "Owner": { "grade": 41, "name": "Zora Dickerson" }
+  },
+  {
+    "lockerNumber": 6058,
+    "Hallway": "Math",
+    "Owner": { "grade": 40, "name": "Flynn Barry" }
+  },
+  { "lockerNumber": 6059, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6060, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6061,
+    "Hallway": "Math",
+    "Owner": { "grade": 8, "name": "Waverly Howe" }
+  },
+  {
+    "lockerNumber": 6062,
+    "Hallway": "Math",
+    "Owner": { "grade": 68, "name": "Alaric Rodriguez" }
+  },
+  { "lockerNumber": 6063, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6064,
+    "Hallway": "Math",
+    "Owner": { "grade": 52, "name": "Evelyn Huff" }
+  },
+  {
+    "lockerNumber": 6065,
+    "Hallway": "Math",
+    "Owner": { "grade": 7, "name": "Finnley Ellis" }
+  },
+  {
+    "lockerNumber": 6066,
+    "Hallway": "Math",
+    "Owner": { "grade": 6, "name": "Ayla Wise" }
+  },
+  { "lockerNumber": 6067, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6068,
+    "Hallway": "Math",
+    "Owner": { "grade": 56, "name": "Frederick Ramsey" }
+  },
+  { "lockerNumber": 6069, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6070, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6071,
+    "Hallway": "Math",
+    "Owner": { "grade": 46, "name": "Lyric Fernandez" }
+  },
+  { "lockerNumber": 6072, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6073, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6074,
+    "Hallway": "Math",
+    "Owner": { "grade": 6, "name": "Bentley Hopkins" }
+  },
+  { "lockerNumber": 6075, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6076, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6077,
+    "Hallway": "Math",
+    "Owner": { "grade": 20, "name": "Gabriela Salgado" }
+  },
+  { "lockerNumber": 6078, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6079,
+    "Hallway": "Math",
+    "Owner": { "grade": 89, "name": "Trace Knapp" }
+  },
+  { "lockerNumber": 6080, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6081, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6082,
+    "Hallway": "Math",
+    "Owner": { "grade": 15, "name": "Linda Fuller" }
+  },
+  { "lockerNumber": 6083, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6084,
+    "Hallway": "Math",
+    "Owner": { "grade": 66, "name": "Andre Pineda" }
+  },
+  {
+    "lockerNumber": 6085,
+    "Hallway": "Math",
+    "Owner": { "grade": 99, "name": "Nola Pearson" }
+  },
+  {
+    "lockerNumber": 6086,
+    "Hallway": "Math",
+    "Owner": { "grade": 83, "name": "Gunner Juarez" }
+  },
+  {
+    "lockerNumber": 6087,
+    "Hallway": "Math",
+    "Owner": { "grade": 35, "name": "Juliet Pope" }
+  },
+  {
+    "lockerNumber": 6088,
+    "Hallway": "Math",
+    "Owner": { "grade": 36, "name": "Gunnar Hammond" }
+  },
+  {
+    "lockerNumber": 6089,
+    "Hallway": "Math",
+    "Owner": { "grade": 59, "name": "Holly Lopez" }
+  },
+  {
+    "lockerNumber": 6090,
+    "Hallway": "Math",
+    "Owner": { "grade": 39, "name": "Michael Wiggins" }
+  },
+  { "lockerNumber": 6091, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6092,
+    "Hallway": "Math",
+    "Owner": { "grade": 28, "name": "Capri Smith" }
+  },
+  { "lockerNumber": 6093, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6094,
+    "Hallway": "Math",
+    "Owner": { "grade": 61, "name": "Liam Schmitt" }
+  },
+  {
+    "lockerNumber": 6095,
+    "Hallway": "Math",
+    "Owner": { "grade": 56, "name": "Queen Archer" }
+  },
+  {
+    "lockerNumber": 6096,
+    "Hallway": "Math",
+    "Owner": { "grade": 39, "name": "Ephraim Fields" }
+  },
+  { "lockerNumber": 6097, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6098, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6099, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6100,
+    "Hallway": "Math",
+    "Owner": { "grade": 52, "name": "Annie Newton" }
+  },
+  { "lockerNumber": 6101, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6102, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6103, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6104, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 6105, "Hallway": "Math", "Owner": null },
+  {
+    "lockerNumber": 6106,
+    "Hallway": "Math",
+    "Owner": { "grade": 83, "name": "Santino Brennan" }
+  },
+  { "lockerNumber": 6107, "Hallway": "Math", "Owner": null },
+  { "lockerNumber": 7000, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7001,
+    "Hallway": "French",
+    "Owner": { "grade": 68, "name": "Elodie Perez" }
+  },
+  { "lockerNumber": 7002, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7003, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7004,
+    "Hallway": "French",
+    "Owner": { "grade": 8, "name": "Owen Jordan" }
+  },
+  {
+    "lockerNumber": 7005,
+    "Hallway": "French",
+    "Owner": { "grade": 51, "name": "Adalynn Baldwin" }
+  },
+  { "lockerNumber": 7006, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7007,
+    "Hallway": "French",
+    "Owner": { "grade": 21, "name": "Jaiden Keith" }
+  },
+  { "lockerNumber": 7008, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7009,
+    "Hallway": "French",
+    "Owner": { "grade": 54, "name": "Elyse George" }
+  },
+  {
+    "lockerNumber": 7010,
+    "Hallway": "French",
+    "Owner": { "grade": 92, "name": "Mark Baldwin" }
+  },
+  {
+    "lockerNumber": 7011,
+    "Hallway": "French",
+    "Owner": { "grade": 71, "name": "Esmeralda Keith" }
+  },
+  { "lockerNumber": 7012, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7013, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7014, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7015,
+    "Hallway": "French",
+    "Owner": { "grade": 45, "name": "Jagger Leon" }
+  },
+  {
+    "lockerNumber": 7016,
+    "Hallway": "French",
+    "Owner": { "grade": 63, "name": "Amora Daniel" }
+  },
+  {
+    "lockerNumber": 7017,
+    "Hallway": "French",
+    "Owner": { "grade": 97, "name": "Grady Waters" }
+  },
+  { "lockerNumber": 7018, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7019,
+    "Hallway": "French",
+    "Owner": { "grade": 82, "name": "Bristol Valenzuela" }
+  },
+  {
+    "lockerNumber": 7020,
+    "Hallway": "French",
+    "Owner": { "grade": 76, "name": "Jamari Williamson" }
+  },
+  {
+    "lockerNumber": 7021,
+    "Hallway": "French",
+    "Owner": { "grade": 76, "name": "Catherine Ochoa" }
+  },
+  { "lockerNumber": 7022, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7023, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7024, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7025, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7026, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7027, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7028, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7029,
+    "Hallway": "French",
+    "Owner": { "grade": 14, "name": "Winston Henry" }
+  },
+  {
+    "lockerNumber": 7030,
+    "Hallway": "French",
+    "Owner": { "grade": 13, "name": "Summer Ahmed" }
+  },
+  { "lockerNumber": 7031, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7032,
+    "Hallway": "French",
+    "Owner": { "grade": 50, "name": "Harry Barker" }
+  },
+  {
+    "lockerNumber": 7033,
+    "Hallway": "French",
+    "Owner": { "grade": 9, "name": "Remington Gilmore" }
+  },
+  { "lockerNumber": 7034, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7035, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7036, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7037, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7038, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7039,
+    "Hallway": "French",
+    "Owner": { "grade": 67, "name": "Vihaan Gonzalez" }
+  },
+  {
+    "lockerNumber": 7040,
+    "Hallway": "French",
+    "Owner": { "grade": 28, "name": "Abigail Calderon" }
+  },
+  { "lockerNumber": 7041, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7042, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7043,
+    "Hallway": "French",
+    "Owner": { "grade": 85, "name": "Oakley Huff" }
+  },
+  { "lockerNumber": 7044, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7045, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7046,
+    "Hallway": "French",
+    "Owner": { "grade": 51, "name": "Karsyn Bell" }
+  },
+  {
+    "lockerNumber": 7047,
+    "Hallway": "French",
+    "Owner": { "grade": 73, "name": "Emmett Wiley" }
+  },
+  {
+    "lockerNumber": 7048,
+    "Hallway": "French",
+    "Owner": { "grade": 18, "name": "Lauryn Osborne" }
+  },
+  {
+    "lockerNumber": 7049,
+    "Hallway": "French",
+    "Owner": { "grade": 65, "name": "Augustus Herman" }
+  },
+  { "lockerNumber": 7050, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7051,
+    "Hallway": "French",
+    "Owner": { "grade": 68, "name": "Paulina Vega" }
+  },
+  { "lockerNumber": 7052, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7053, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7054,
+    "Hallway": "French",
+    "Owner": { "grade": 89, "name": "Aidan Peters" }
+  },
+  {
+    "lockerNumber": 7055,
+    "Hallway": "French",
+    "Owner": { "grade": 23, "name": "Leila Jones" }
+  },
+  { "lockerNumber": 7056, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7057, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7058,
+    "Hallway": "French",
+    "Owner": { "grade": 64, "name": "William Brandt" }
+  },
+  { "lockerNumber": 7059, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7060, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7061, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7062, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7063,
+    "Hallway": "French",
+    "Owner": { "grade": 38, "name": "Loretta Norman" }
+  },
+  { "lockerNumber": 7064, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7065,
+    "Hallway": "French",
+    "Owner": { "grade": 65, "name": "Aziel Ward" }
+  },
+  { "lockerNumber": 7066, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7067, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7068,
+    "Hallway": "French",
+    "Owner": { "grade": 72, "name": "Ariana Stein" }
+  },
+  {
+    "lockerNumber": 7069,
+    "Hallway": "French",
+    "Owner": { "grade": 90, "name": "Creed McKenzie" }
+  },
+  { "lockerNumber": 7070, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7071, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7072,
+    "Hallway": "French",
+    "Owner": { "grade": 64, "name": "Briar Hodges" }
+  },
+  {
+    "lockerNumber": 7073,
+    "Hallway": "French",
+    "Owner": { "grade": 32, "name": "Alonzo Valdez" }
+  },
+  { "lockerNumber": 7074, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7075, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7076,
+    "Hallway": "French",
+    "Owner": { "grade": 68, "name": "Diana Hughes" }
+  },
+  { "lockerNumber": 7077, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7078,
+    "Hallway": "French",
+    "Owner": { "grade": 20, "name": "Everett Hurley" }
+  },
+  { "lockerNumber": 7079, "Hallway": "French", "Owner": null },
+  {
+    "lockerNumber": 7080,
+    "Hallway": "French",
+    "Owner": { "grade": 6, "name": "Rylan Davis" }
+  },
+  { "lockerNumber": 7081, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7082, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7083, "Hallway": "French", "Owner": null },
+  { "lockerNumber": 7084, "Hallway": "French", "Owner": null }
+]
