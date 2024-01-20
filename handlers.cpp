@@ -43,6 +43,20 @@ void help(std::string helpArgs)
     }
 }
 
+void printOwner(json owner_json)
+{
+    PrintColor(BLUE, "Owner:");
+    if (owner_json.is_null())
+    {
+        PrintColor(RED, std::string(SOFTTAB) + "This Locker has no Owner");
+        return;
+    }
+    std::string student_name = owner_json["name"].get<std::string>();
+    int student_grade = owner_json["grade"].get<int>();
+    std::cout << SOFTTAB << BLUE << "Name: " << RESET << student_name << std::endl
+              << SOFTTAB << BLUE << "Grade: " << RESET << student_grade << "%" << std::endl;
+}
+
 void info(std::string infoArgs)
 {
     std::istringstream iss(infoArgs);
@@ -60,7 +74,18 @@ void info(std::string infoArgs)
     int lockerNumber = stringToInt(tokens[1]);
     std::ifstream f("students.json");
     json data = json::parse(f);
-    std::cout << data << std::endl;
+    json locker_value;
+    for (auto &el : data.items())
+    {
+        json value = el.value();
+        if (value["lockerNumber"].get<int>() == lockerNumber)
+        {
+            locker_value = value;
+        }
+    }
+    std::cout << BLUE << "Number #: " << RESET << locker_value["lockerNumber"].get<int>() << std::endl
+              << BLUE << "Hallway: " << RESET << locker_value["Hallway"].get<std::string>() << std::endl;
+    printOwner(locker_value["Owner"]);
 }
 
 void clear(std::string clearArgs)
