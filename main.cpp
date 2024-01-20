@@ -2,10 +2,10 @@
 #include <string>
 #include <unordered_map>
 #include <functional>
-#include "colorText.hpp"
-#include "utilityFunctions.hpp"
+#include "colorText.cpp"
+#include "utilityFunctions.cpp"
 #include "handlers.cpp"
-#include "assets.hpp"
+#include "assets.cpp"
 
 int main()
 {

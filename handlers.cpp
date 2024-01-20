@@ -1,10 +1,11 @@
 #include <iostream>
 #include <vector>
+#include "json.hpp"
 #include <string>
 #include <sstream>
 #include <functional>
 #include <fstream>
-#include "assets.hpp"
+#include "assets.cpp"
 #define OPTIONAL_PREFIX "--"
 #ifdef __linux__
 #define CLEAR "clear"
@@ -16,6 +17,7 @@
 #define CLEAR "clear"
 #endif
 
+using json = nlohmann::json;
 using FunctionType = std::function<void(std::string)>;
 
 class Command
@@ -56,13 +58,9 @@ void info(std::string infoArgs)
         return;
     }
     int lockerNumber = stringToInt(tokens[1]);
-    std::ifstream locker_file("people.json", std::ifstream::binary);
-    Json::Value lockers;
-    locker_file >> lockers;
-    for (Json::Value locker : lockers)
-    {
-        std::cout << locker << std::endl;
-    }
+    std::ifstream f("students.json");
+    json data = json::parse(f);
+    std::cout << data << std::endl;
 }
 
 void clear(std::string clearArgs)
